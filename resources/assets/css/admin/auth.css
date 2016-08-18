@@ -1,0 +1,7 @@
+.form-control-error{
+    color: orange; 
+
+        span {
+        display: block;
+    }
+}

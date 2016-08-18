@@ -1,0 +1,1 @@
+{"version":3,"sources":["admin/dashboard.css","admin/auth.css"],"names":[],"mappings":"AAAA;EACI,kBAAiB,EADV;;ACAX;EACI,WAAW,EADK;EAGhB;IACI,eAAe,EADb","file":"admin.css","sourceRoot":"/source/","sourcesContent":[".mg-top-30{\n    margin-top:300px;\n}",".form-control-error{\n    color: red; \n\n    span {\n        display: block;\n    };\n}"]}
